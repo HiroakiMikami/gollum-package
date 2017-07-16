@@ -1,6 +1,6 @@
 # Maintainer: Hiroaki Mikami <hiroaki8270@gmail.com>
 pkgname=gollumd
-pkgver=r1.f7821b1
+pkgver=r3.ca67495
 pkgrel=1
 pkgdesc=""
 arch=("x86_64")
