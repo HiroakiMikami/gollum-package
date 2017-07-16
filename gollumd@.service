@@ -1,0 +1,9 @@
+[Unit]
+Description=Gollum
+
+[Service]
+Type=forking
+ExecStart=/usr/local/bin/gollumd %i
+
+[Install]
+WantedBy=multi-user.target

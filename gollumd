@@ -1,0 +1,3 @@
+#! /bin/sh
+
+gollum --mathjax-config --live-preview ${HOME}/$1
